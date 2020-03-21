@@ -1,0 +1,9 @@
+https://vuejsexamples.com/a-vue-js-2-0-slideshow-component-working-with-three-js/
+
+https://www.youtube.com/watch?v=4vajlWofWS8
+
+https://www.youtube.com/watch?v=HiMtn-R0Fws
+
+https://css-tricks.com/javascript-page-slider-roundup/
+
+https://binaryify.github.io/vue-custom-scrollbar/en/#caveats

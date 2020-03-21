@@ -1,0 +1,13 @@
+node_modules
+
+dist/*
+
+.idea/
+
+config/globle.js
+
+src/httpConfig.js
+
+src/main.js
+
+node_modules/*
