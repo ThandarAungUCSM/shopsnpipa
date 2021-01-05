@@ -11,7 +11,7 @@
     "test": "npm run e2e"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "babel-loader": "^6.4.1",
     "babel-preset-es2015": "^6.24.1",
     "element-ui": "^2.3.7",
